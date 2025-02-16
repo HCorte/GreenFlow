@@ -63,7 +63,7 @@ A brief overview of what the project does and its purpose.
 ## Deployment of Streamlit
 
 * Deployment of consumos.py to https://streamlit.io/cloud:
-  * [https://dataops.streamlit.app/]( "https://dataops.streamlit.app/")
+  * https://dataops.streamlit.app/
 
 ## Contributing
 
