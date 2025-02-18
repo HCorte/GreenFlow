@@ -2,7 +2,8 @@
 
 ## Description
 
-A brief overview of what the project does and its purpose.
+This project serves to show how to implement a basic Rest API for Data processing and used in the context of Docker Containers and inserting the data to persist in Mongodb.
+The project docker-compose will generate two container / services one for the app another for the db where its used Binding Volume to persist the db data to to host in project data folder. Also a User Interface (UI) with streamlit and with it also upload parquet file into memory and persist also in file format in the server side.
 
 ## Features
 
