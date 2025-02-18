@@ -63,7 +63,7 @@ The project docker-compose will generate two container / services one for the ap
 
 ## Streamlit Report
 
-* Option to have an instantaneuous detailed analysis of your data on Streamlit. 
+* Option to have a brief detailed analysis of your data on Streamlit. 
 
 * Please click on the following link and upload your parquet file: https://dataops.streamlit.app/
 
