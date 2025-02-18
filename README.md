@@ -60,10 +60,11 @@ A brief overview of what the project does and its purpose.
   ```
 * Now can call as usuall the endpoints from postman and the app in container will respond and save in a second container the db as well backup in the host in this project data folder.
 
-## Deployment of Streamlit
+## Streamlit Report
 
-* Deployment of consumos.py to https://streamlit.io/cloud:
-  * https://dataops.streamlit.app/
+* Option to have an instantaneuous detailed analysis of your data on Streamlit. 
+
+* Please click on the following link and upload your parquet file: https://dataops.streamlit.app/
 
 ## Contributing
 
